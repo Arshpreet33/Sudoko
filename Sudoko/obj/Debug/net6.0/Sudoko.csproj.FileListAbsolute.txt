@@ -1,0 +1,15 @@
+/Users/arshpreetsingh/MyProjects/Algorithms/String/Sudoko/Sudoko/obj/Debug/net6.0/Sudoko.csproj.AssemblyReference.cache
+/Users/arshpreetsingh/MyProjects/Algorithms/String/Sudoko/Sudoko/obj/Debug/net6.0/Sudoko.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arshpreetsingh/MyProjects/Algorithms/String/Sudoko/Sudoko/obj/Debug/net6.0/Sudoko.AssemblyInfoInputs.cache
+/Users/arshpreetsingh/MyProjects/Algorithms/String/Sudoko/Sudoko/obj/Debug/net6.0/Sudoko.AssemblyInfo.cs
+/Users/arshpreetsingh/MyProjects/Algorithms/String/Sudoko/Sudoko/obj/Debug/net6.0/Sudoko.csproj.CoreCompileInputs.cache
+/Users/arshpreetsingh/MyProjects/Algorithms/String/Sudoko/Sudoko/bin/Debug/net6.0/Sudoko
+/Users/arshpreetsingh/MyProjects/Algorithms/String/Sudoko/Sudoko/bin/Debug/net6.0/Sudoko.deps.json
+/Users/arshpreetsingh/MyProjects/Algorithms/String/Sudoko/Sudoko/bin/Debug/net6.0/Sudoko.runtimeconfig.json
+/Users/arshpreetsingh/MyProjects/Algorithms/String/Sudoko/Sudoko/bin/Debug/net6.0/Sudoko.dll
+/Users/arshpreetsingh/MyProjects/Algorithms/String/Sudoko/Sudoko/bin/Debug/net6.0/Sudoko.pdb
+/Users/arshpreetsingh/MyProjects/Algorithms/String/Sudoko/Sudoko/obj/Debug/net6.0/Sudoko.dll
+/Users/arshpreetsingh/MyProjects/Algorithms/String/Sudoko/Sudoko/obj/Debug/net6.0/refint/Sudoko.dll
+/Users/arshpreetsingh/MyProjects/Algorithms/String/Sudoko/Sudoko/obj/Debug/net6.0/Sudoko.pdb
+/Users/arshpreetsingh/MyProjects/Algorithms/String/Sudoko/Sudoko/obj/Debug/net6.0/Sudoko.genruntimeconfig.cache
+/Users/arshpreetsingh/MyProjects/Algorithms/String/Sudoko/Sudoko/obj/Debug/net6.0/ref/Sudoko.dll
